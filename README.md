@@ -1,3 +1,5 @@
 # AWS things for my repo
 
-Discus: 
+
+Links: 
+- http://www.ec2instances.info/ 
